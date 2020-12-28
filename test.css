@@ -2,7 +2,6 @@
     border: 5px solid red;
 }
 
-body{
-    background-color: black;
-    color: black;
+section{
+    border: 5px solid black;
 }
